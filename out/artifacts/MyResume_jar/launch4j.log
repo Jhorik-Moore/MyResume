@@ -1,0 +1,196 @@
+
+
+Version:	3.14
+CmdLine:	D:\MyResume\out\artifacts\MyResume_jar\MyResume.exe --l4j-debug
+WOW64:		yes
+Create mutex:	Resume
+Java min ver:	1.004.001
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_291
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000_291
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Main class:	sample.Main
+Add classpath:	D:\MyResume\src\sample
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	-classpath "D:\MyResume\out\artifacts\MyResume_jar\MyResume.exe;D:\MyResume\src\sample" sample.Main
+Args length:	99/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.14
+CmdLine:	D:\MyResume\out\artifacts\MyResume_jar\MyResume.exe --l4j-debug
+WOW64:		yes
+Create mutex:	Resume
+Java min ver:	1.004.001
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_291
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000_291
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Main class:	sample.Main
+Add classpath:	D:\MyResume\src\sample
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	-classpath "D:\MyResume\out\artifacts\MyResume_jar\MyResume.exe;D:\MyResume\src\sample" sample.Main
+Args length:	99/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.14
+CmdLine:	D:\MyResume\out\artifacts\MyResume_jar\MyResume.exe --l4j-debug
+WOW64:		yes
+Create mutex:	Resume
+Java min ver:	1.004.001
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_291
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000_291
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Main class:	sample.Main
+Add classpath:	D:\MyResume\src\sample
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	-classpath "D:\MyResume\out\artifacts\MyResume_jar\MyResume.exe;D:\MyResume\src\sample" sample.Main
+Args length:	99/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.14
+CmdLine:	D:\MyResume\out\artifacts\MyResume_jar\MyResume.exe --l4j-debug
+WOW64:		yes
+Create mutex:	Resume
+Java min ver:	1.004.001
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_291
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000_291
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Main class:	sample.Main
+Add classpath:	D:\MyResume\out\production\MyResume\sample
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	-classpath "D:\MyResume\out\artifacts\MyResume_jar\MyResume.exe;D:\MyResume\out\production\MyResume\sample" sample.Main
+Args length:	119/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.14
+CmdLine:	D:\MyResume\out\artifacts\MyResume_jar\MyResume.exe --l4j-debug
+WOW64:		yes
+Create mutex:	Resume
+Java min ver:	1.004.001
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_291
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000_291
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Main class:	Main
+Add classpath:	D:\MyResume\out\production\MyResume\sample
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	-classpath "D:\MyResume\out\artifacts\MyResume_jar\MyResume.exe;D:\MyResume\out\production\MyResume\sample" Main
+Args length:	112/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.14
+CmdLine:	D:\MyResume\out\artifacts\MyResume_jar\MyResume.exe --l4j-debug
+WOW64:		yes
+Create mutex:	Resume
+Java min ver:	1.004.001
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_291
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000_291
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Main class:	Main.class
+Add classpath:	D:\MyResume\out\production\MyResume\sample
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	-classpath "D:\MyResume\out\artifacts\MyResume_jar\MyResume.exe;D:\MyResume\out\production\MyResume\sample" Main.class
+Args length:	118/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.14
+CmdLine:	D:\MyResume\out\artifacts\MyResume_jar\MyResume.exe --l4j-debug
+WOW64:		yes
+Create mutex:	Resume
+Java min ver:	1.004.001
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_291
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000_291
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Main class:	sample.Main
+Add classpath:	D:\MyResume\out\production\MyResume\sample
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	-classpath "D:\MyResume\out\artifacts\MyResume_jar\MyResume.exe;D:\MyResume\out\production\MyResume\sample" sample.Main
+Args length:	119/32768 chars
+Error msg:	An error occurred while starting the application.

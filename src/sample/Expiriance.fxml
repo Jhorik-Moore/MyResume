@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="497.0" prefWidth="802.0" style="-fx-background-color: #cacbccв;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Expiriance">
+    <children>
+        <AnchorPane prefHeight="500.0" prefWidth="254.0" style="-fx-background-color: #0d0f12;">
+            <children>
+                <Button fx:id="CONTACTS" layoutX="69.0" layoutY="181.0" mnemonicParsing="false" style="-fx-background-color: transpareted;" text="- CONTACTS -">
+                    <font>
+                        <Font name="Bookman Old Style" size="15.0" />
+                    </font>
+                    <textFill>
+                        <LinearGradient endX="1.0" endY="1.0" startX="1.0">
+                            <stops>
+                                <Stop>
+                                    <color>
+                                        <Color red="0.06536305695772171" green="0.3815789520740509" blue="0.365768164396286" />
+                                    </color>
+                                </Stop>
+                                <Stop offset="1.0">
+                                    <color>
+                                        <Color red="0.09803921729326248" green="0.7764706015586853" blue="0.7411764860153198" />
+                                    </color>
+                                </Stop>
+                            </stops>
+                        </LinearGradient>
+                    </textFill>
+                    <cursor>
+                        <Cursor fx:constant="HAND" />
+                    </cursor>
+                </Button>
+                <Button fx:id="QA" layoutX="69.0" layoutY="382.0" mnemonicParsing="false" style="-fx-background-color: transpareted;" text="- QA -">
+                    <font>
+                        <Font name="Bookman Old Style" size="15.0" />
+                    </font>
+                    <textFill>
+                        <LinearGradient endX="1.0" endY="1.0" startX="1.0">
+                            <stops>
+                                <Stop>
+                                    <color>
+                                        <Color red="0.06536305695772171" green="0.3815789520740509" blue="0.365768164396286" />
+                                    </color>
+                                </Stop>
+                                <Stop offset="1.0">
+                                    <color>
+                                        <Color red="0.09803921729326248" green="0.7764706015586853" blue="0.7411764860153198" />
+                                    </color>
+                                </Stop>
+                            </stops>
+                        </LinearGradient>
+                    </textFill>
+                    <cursor>
+                        <Cursor fx:constant="HAND" />
+                    </cursor>
+                </Button>
+                <Button fx:id="EDUCATION" layoutX="68.0" layoutY="222.0" mnemonicParsing="false" prefHeight="28.0" prefWidth="139.0" style="-fx-background-color: transpareted;" text="- EDUCATION -">
+                    <font>
+                        <Font name="Bookman Old Style" size="15.0" />
+                    </font>
+                    <textFill>
+                        <LinearGradient endX="1.0" endY="1.0" startX="1.0">
+                            <stops>
+                                <Stop>
+                                    <color>
+                                        <Color red="0.06536305695772171" green="0.3815789520740509" blue="0.365768164396286" />
+                                    </color>
+                                </Stop>
+                                <Stop offset="1.0">
+                                    <color>
+                                        <Color red="0.09803921729326248" green="0.7764706015586853" blue="0.7411764860153198" />
+                                    </color>
+                                </Stop>
+                            </stops>
+                        </LinearGradient>
+                    </textFill>
+                    <cursor>
+                        <Cursor fx:constant="HAND" />
+                    </cursor>
+                </Button>
+                <Button fx:id="LANGUAGES" layoutX="69.0" layoutY="264.0" mnemonicParsing="false" style="-fx-background-color: transpareted;" text="- LANGUAGES -">
+                    <font>
+                        <Font name="Bookman Old Style" size="15.0" />
+                    </font>
+                    <textFill>
+                        <LinearGradient endX="1.0" endY="1.0" startX="1.0">
+                            <stops>
+                                <Stop>
+                                    <color>
+                                        <Color red="0.06536305695772171" green="0.3815789520740509" blue="0.365768164396286" />
+                                    </color>
+                                </Stop>
+                                <Stop offset="1.0">
+                                    <color>
+                                        <Color red="0.09803921729326248" green="0.7764706015586853" blue="0.7411764860153198" />
+                                    </color>
+                                </Stop>
+                            </stops>
+                        </LinearGradient>
+                    </textFill>
+                    <cursor>
+                        <Cursor fx:constant="HAND" />
+                    </cursor>
+                </Button>
+                <Button fx:id="SKILLS" layoutX="61.0" layoutY="304.0" mnemonicParsing="false" prefHeight="28.0" prefWidth="116.0" style="-fx-background-color: transpareted;" text="- SKILLS -">
+                    <font>
+                        <Font name="Bookman Old Style" size="15.0" />
+                    </font>
+                    <textFill>
+                        <LinearGradient endX="1.0" endY="1.0" startX="1.0">
+                            <stops>
+                                <Stop>
+                                    <color>
+                                        <Color red="0.06536305695772171" green="0.3815789520740509" blue="0.365768164396286" />
+                                    </color>
+                                </Stop>
+                                <Stop offset="1.0">
+                                    <color>
+                                        <Color red="0.09803921729326248" green="0.7764706015586853" blue="0.7411764860153198" />
+                                    </color>
+                                </Stop>
+                            </stops>
+                        </LinearGradient>
+                    </textFill>
+                    <cursor>
+                        <Cursor fx:constant="HAND" />
+                    </cursor>
+                </Button>
+                <Button fx:id="EXPIRIANCE" layoutX="69.0" layoutY="343.0" mnemonicParsing="false" style="-fx-background-color: transpareted;" text="- EXPIRIANCE -">
+                    <font>
+                        <Font name="Bookman Old Style" size="15.0" />
+                    </font>
+                    <textFill>
+                        <LinearGradient endX="1.0" endY="1.0" startX="1.0">
+                            <stops>
+                                <Stop>
+                                    <color>
+                                        <Color red="0.06536305695772171" green="0.3815789520740509" blue="0.365768164396286" />
+                                    </color>
+                                </Stop>
+                                <Stop offset="1.0">
+                                    <color>
+                                        <Color red="0.09803921729326248" green="0.7764706015586853" blue="0.7411764860153198" />
+                                    </color>
+                                </Stop>
+                            </stops>
+                        </LinearGradient>
+                    </textFill>
+                    <cursor>
+                        <Cursor fx:constant="HAND" />
+                    </cursor>
+                </Button>
+                <Separator layoutX="113.0" layoutY="445.0" opacity="0.11" orientation="VERTICAL" prefHeight="21.0" prefWidth="13.0" />
+                <Button fx:id="Eng" layoutX="61.0" layoutY="443.0" mnemonicParsing="false" style="-fx-background-radius: 10; -fx-background-color: transpareted;" text="- Eng" textFill="#d1d1d1">
+                    <cursor>
+                        <Cursor fx:constant="HAND" />
+                    </cursor>
+                </Button>
+                <Button fx:id="Ukr" layoutX="138.0" layoutY="443.0" mnemonicParsing="false" style="-fx-background-radius: 10; -fx-background-color: transpareted;" text="Ukr -" textFill="#d1d1d1">
+                    <cursor>
+                        <Cursor fx:constant="HAND" />
+                    </cursor>
+                </Button>
+                <ImageView fitHeight="21.0" fitWidth="19.0" layoutX="37.0" layoutY="186.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@assests/- (2).png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="19.0" fitWidth="19.0" layoutX="37.0" layoutY="227.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@assests/mortarboard.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="19.0" fitWidth="19.0" layoutX="37.0" layoutY="269.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@assests/global (1).png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="19.0" fitWidth="19.0" layoutX="37.0" layoutY="309.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@assests/inspiration.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="19.0" fitWidth="19.0" layoutX="37.0" layoutY="348.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@assests/portfolio.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="19.0" fitWidth="19.0" layoutX="37.0" layoutY="387.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@assests/question.png" />
+                    </image>
+                </ImageView>
+                <AnchorPane layoutY="-2.0" prefHeight="84.0" prefWidth="256.0" style="-fx-background-color: #1f1d1d;" />
+                <ImageView fx:id="me" fitHeight="119.0" fitWidth="131.0" layoutX="54.0" layoutY="23.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@assests/pixlr-bg-result.png" />
+                    </image>
+                </ImageView>
+            </children>
+        </AnchorPane>
+        <AnchorPane layoutX="254.0" prefHeight="84.0" prefWidth="548.0" style="-fx-background-color: #1f1d1d;">
+            <children>
+                <Separator layoutX="108.0" layoutY="46.0" opacity="0.58" prefHeight="1.0" prefWidth="316.0" style="-fx-background-color: #0dbd9a;">
+                    <cursor>
+                        <Cursor fx:constant="DEFAULT" />
+                    </cursor>
+                </Separator>
+                <Text layoutX="28.0" layoutY="30.0" strokeType="OUTSIDE" strokeWidth="0.0" text="YEHOR HVOZDOV" wrappingWidth="190.447265625">
+                    <fill>
+                        <LinearGradient endX="1.0" endY="1.0" startX="1.0">
+                            <stops>
+                                <Stop>
+                                    <color>
+                                        <Color red="0.06536305695772171" green="0.3815789520740509" blue="0.365768164396286" />
+                                    </color>
+                                </Stop>
+                                <Stop offset="1.0">
+                                    <color>
+                                        <Color red="0.09803921729326248" green="0.7764706015586853" blue="0.7411764860153198" />
+                                    </color>
+                                </Stop>
+                            </stops>
+                        </LinearGradient>
+                    </fill>
+                    <font>
+                        <Font name="Bell MT" size="19.0" />
+                    </font>
+                </Text>
+                <Text layoutX="327.0" layoutY="70.0" strokeType="OUTSIDE" strokeWidth="0.0" text="JAVA DEVELOPER" wrappingWidth="194.1064453125">
+                    <fill>
+                        <LinearGradient endX="1.0" endY="1.0" startX="1.0">
+                            <stops>
+                                <Stop>
+                                    <color>
+                                        <Color red="0.06536305695772171" green="0.3815789520740509" blue="0.365768164396286" />
+                                    </color>
+                                </Stop>
+                                <Stop offset="1.0">
+                                    <color>
+                                        <Color red="0.09803921729326248" green="0.7764706015586853" blue="0.7411764860153198" />
+                                    </color>
+                                </Stop>
+                            </stops>
+                        </LinearGradient>
+                    </fill>
+                    <font>
+                        <Font name="Bell MT" size="19.0" />
+                    </font>
+                </Text>
+            <Button fx:id="close" layoutX="510.0" layoutY="12.0" mnemonicParsing="false" style="-fx-background-color: transpareted; -fx-background-radius: 50;" text="x" textFill="#ee0000">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Button>
+            </children>
+        </AnchorPane>
+        <ImageView fitHeight="417.0" fitWidth="548.0" layoutX="254.0" layoutY="93.0" opacity="0.1" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@assests/kisspng-business-presentation-information-clip-art-vector-business-office-meeting-5a7fdff50ac823.3997443815183298450442.png" />
+            </image>
+        </ImageView>
+        <ImageView fitHeight="61.0" fitWidth="65.0" layoutX="705.0" layoutY="417.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@assests/ПБ.png" />
+            </image>
+        </ImageView>
+      <Text layoutX="535.0" layoutY="193.0" strokeType="OUTSIDE" strokeWidth="0.0" text="27.01.2017   :    Helpdesk operator" wrappingWidth="228.93701171875">
+         <font>
+            <Font size="15.0" />
+         </font>
+         <fill>
+            <LinearGradient endX="0.4619047619047619" endY="0.8238095238095238" startX="0.8238095238095239" startY="0.15238095238095228">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color red="0.5789473652839661" green="0.09381091594696045" blue="0.09381091594696045" />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </fill>
+      </Text>
+      <Text layoutX="535.0" layoutY="220.0" strokeType="OUTSIDE" strokeWidth="0.0" text="28.04.2020   :   Analyst / BPM (HD)" wrappingWidth="228.93701171875">
+         <font>
+            <Font size="15.0" />
+         </font>
+         <fill>
+            <LinearGradient endX="1.0" endY="1.0" startX="1.0">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color red="0.6447368264198303" green="0.02984892763197422" blue="0.02984892763197422" />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </fill>
+      </Text>
+      <Text fontSmoothingType="LCD" layoutX="431.0" layoutY="116.0" strokeType="OUTSIDE" strokeWidth="0.0" text="WORK EXPIRIANCE" wrappingWidth="194.1064453125">
+         <font>
+            <Font name="Bookman Old Style Bold" size="16.0" />
+         </font>
+         <fill>
+            <LinearGradient cycleMethod="REFLECT" endX="0.7571428571428571" endY="1.0">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color red="0.5458089709281921" green="0.6396198868751526" blue="0.9210526347160339" />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </fill>
+      </Text>
+      <Text fontSmoothingType="LCD" layoutX="465.0" layoutY="152.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PrivatBank" wrappingWidth="194.1064453125">
+         <font>
+            <Font name="Bookman Old Style Bold" size="16.0" />
+         </font>
+         <fill>
+            <LinearGradient endX="0.7571428571428571">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color red="0.5458089709281921" green="0.6396198868751526" blue="0.9210526347160339" />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </fill>
+      </Text>
+      <Text fontSmoothingType="LCD" layoutX="462.0" layoutY="265.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PROGRESS" wrappingWidth="242.1064453125">
+         <font>
+            <Font name="Bookman Old Style Bold" size="16.0" />
+         </font>
+         <fill>
+            <LinearGradient endX="0.7571428571428571">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color red="0.5458089709281921" green="0.6396198868751526" blue="0.9210526347160339" />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </fill>
+      </Text>
+      <Text layoutX="276.0" layoutY="384.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Helpdesk operator :" wrappingWidth="228.93701171875">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+         <fill>
+            <LinearGradient endX="0.033333333333333326" endY="0.8238095238095238" startX="0.8238095238095239" startY="0.15238095238095228">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color red="0.5789473652839661" green="0.09381091594696045" blue="0.09381091594696045" />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </fill>
+      </Text>
+      <ImageView fitHeight="28.0" fitWidth="27.0" layoutX="263.0" layoutY="404.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@assests/gold-medal.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="28.0" fitWidth="27.0" layoutX="263.0" layoutY="440.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@assests/best-seller.png" />
+         </image>
+      </ImageView>
+      <Text layoutX="300.0" layoutY="423.0" strokeType="OUTSIDE" strokeWidth="0.0" text="WOW case solution" wrappingWidth="228.93701171875">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font>
+         <fill>
+            <LinearGradient endX="0.0714285714285714" endY="0.6952380952380952" startX="0.8238095238095239" startY="0.15238095238095228">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color red="0.5789473652839661" green="0.09381091594696045" blue="0.09381091594696045" />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </fill>
+      </Text>
+      <Text layoutX="300.0" layoutY="459.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Best employee of the month" wrappingWidth="228.93701171875">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font>
+         <fill>
+            <LinearGradient endX="0.4619047619047619" endY="0.8238095238095238" startX="0.8238095238095239" startY="0.15238095238095228">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color red="0.5789473652839661" green="0.09381091594696045" blue="0.09381091594696045" />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </fill>
+      </Text>
+      <Text layoutX="276.0" layoutY="301.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Analyst / BPM (HD) :" wrappingWidth="228.93701171875">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+         <fill>
+            <LinearGradient endX="1.0" endY="1.0" startX="1.0">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color red="0.6447368264198303" green="0.02984892763197422" blue="0.02984892763197422" />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </fill>
+      </Text>
+      <ImageView fitHeight="28.0" fitWidth="27.0" layoutX="263.0" layoutY="320.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@assests/tick.png" />
+         </image>
+      </ImageView>
+      <Text layoutX="300.0" layoutY="323.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1st among all oper.departments, who made the processes for UMARK 4.0" wrappingWidth="406.93701171875">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font>
+         <fill>
+            <LinearGradient endX="0.4619047619047619" endY="0.8238095238095238" startX="0.8238095238095239" startY="0.15238095238095228">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color red="0.5789473652839661" green="0.09381091594696045" blue="0.09381091594696045" />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </fill>
+      </Text>
+    </children>
+</AnchorPane>

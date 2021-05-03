@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="387.0" prefWidth="548.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Education">
+   <children>
+      <ImageView fitHeight="495.0" fitWidth="675.0" layoutY="-7.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@assests/IMG_20210429_162726-01.jpeg" />
+         </image>
+      </ImageView>
+      <AnchorPane layoutY="475.0" prefHeight="13.0" prefWidth="660.0" style="-fx-background-color: #dedede;" />
+      <AnchorPane layoutX="-4.0" prefHeight="13.0" prefWidth="667.0" style="-fx-background-color: #dedede;" />
+   </children>
+</AnchorPane>
